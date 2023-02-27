@@ -17,7 +17,7 @@ Pedro</a></h1>
 
 - Gosto de Assistir Filmes e Séries no meu tempo livre
 
-- Atualmente estou estudando HTML e CSS 
+- Atualmente estou estudando React JS e Type Script 
 
 - entre em contato: **pedrocatarina.ip@gmail.com**
 
