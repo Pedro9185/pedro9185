@@ -33,7 +33,7 @@ Pedro</a></h1>
 	 
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/Pedro9185" >
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href=""></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://github.com/Pedro9185"></a>
         <a style="margin-left: ;" target="_blank" href="https://www.instagram.com/pedrim_cme/" >
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
 		
