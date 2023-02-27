@@ -39,7 +39,7 @@ Pedro</a></h1>
 	 
         <a style="margin-left: ;" target="_blank" href="https://www.instagram.com/pedrim_cme/" >
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-	<div/>
+	
 			
 
 </p>
