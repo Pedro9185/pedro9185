@@ -16,7 +16,7 @@ Pedro</a></h1>
 
 - Gosto de Assistir Filmes e Séries no meu tempo livre
 
-- Atualmente estou estudando React JS e Type Script 
+- Atualmente estou estudando Banco de Dados Python e Java e sobre estrutura de dados e desenvolvimento de Sistemas 
 
 - entre em contato: **pedrocatarina.ip@gmail.com**
 
