@@ -16,7 +16,7 @@ Pedro</a></h1>
 
 - Gosto de Assistir Filmes e Séries no meu tempo livre
 
-- Atualmente estou estudando Banco de Dados Python e Java e sobre estrutura de dados e desenvolvimento de Sistemas 
+- Atualmente estou estudando Banco de Dados, Python, Java, sobre estrutura de dados e desenvolvimento de Sistemas 
 
 - entre em contato: **pedrocatarina.ip@gmail.com**
 
