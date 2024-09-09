@@ -12,8 +12,7 @@ Pedro</a></h1>
 
 ### Sobre Mim:
 
-- Atualmente estou no Programa Starter Web Developer<a href="https://www.growdev.com.br/starter-2" target="blank">Starter+</a>
-
+- Atualmente estou cursando Analise e Desenvolvimento de sistemas na UFCA
 
 - Gosto de Assistir Filmes e Séries no meu tempo livre
 
